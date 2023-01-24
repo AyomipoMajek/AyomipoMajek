@@ -48,4 +48,13 @@
 - 🎨 Every time I start a project, my artistic side waits patiently for its moment with CSS.
 - Ask Me About: Music, Dogs
 
-<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyomipoMajek)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+  <h3 align="center">GitHub Statistics:</h3>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AyomipoMajek&show_icons=true&theme=vue&locale=en" alt="Dammy" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AyomipoMajek&theme=vue-dark" alt="Ayo" /></p>
+
+# Show your support! ⭐
+  Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:.
+<!--
