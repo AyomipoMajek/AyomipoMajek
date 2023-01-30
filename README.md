@@ -53,8 +53,7 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AyomipoMajek&show_icons=true&theme=vue&locale=en" alt="Dammy" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AyomipoMajek&theme=vue-dark" alt="Ayo" /></p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AyomipoMajek&theme=vue-dark" alt="Dammy" /></p>
 # Show your support! ⭐
   Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:.
 <!--
