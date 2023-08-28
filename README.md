@@ -26,7 +26,7 @@
  ### 💫 About Me:
 <p>
   
-- 🔭 I’m a full-time student at Microverse web-development Bootcamp.
+- 🔭 I’m a graduate of Microverse web-development Bootcamp.
 - 🌱 I am looking to collaborate on Front-End projects ( Full-Stack in the making)
 - 👩🏽‍💻 Currently working with vanilla JavaScript. 
 - 🎨 Every time I start a project, my artistic side waits patiently for its moment with CSS.
