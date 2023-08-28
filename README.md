@@ -23,8 +23,8 @@
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CA4245?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 
-<p>
  ### 💫 About Me:
+<p>
   
 - 🔭 I’m a full-time student at Microverse web-development Bootcamp.
 - 🌱 I am looking to collaborate on Front-End projects ( Full-Stack in the making)
