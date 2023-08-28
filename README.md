@@ -24,7 +24,7 @@
 
 
 <p>
- 
+ <h2># 💫 About Me:</h2>
 - 🔭 I’m a full-time student at Microverse web-development Bootcamp.
 - 🌱 I am looking to collaborate on Front-End projects ( Full-Stack in the making)
 - 👩🏽‍💻 Currently working with vanilla JavaScript. 
