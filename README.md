@@ -28,7 +28,7 @@
   
 - 🔭 I’m a graduate of Microverse web-development Bootcamp.
 - 🌱 I am looking to collaborate on Front-End projects ( Full-Stack in the making)
-- 👩🏽‍💻 Currently working with vanilla JavaScript. 
+- 👩🏽‍💻 Currently working with React.jsx. 
 - 🎨 Every time I start a project, my artistic side waits patiently for its moment with CSS.
 - Ask Me About: Music, Dogs
 
